@@ -22,8 +22,6 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cplusplus)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
