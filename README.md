@@ -15,14 +15,12 @@
 - 👨‍💻 University Science Malaysia Penang Undergrad student
 - 🔵🔵🔵🟤 3Blue1Brown follower
 
-
-
-### Connect with Me :
-<a href="https://my.linkedin.com/in/sadeed-farooqi-343816325" target="_blank"><img src="https://img.shields.io/badge/-Sadeed%20Farooqi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack 
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cplusplus)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
+- HTML
+- Javascript
+- R
 ![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
